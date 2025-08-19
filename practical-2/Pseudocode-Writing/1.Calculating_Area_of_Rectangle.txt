@@ -1,0 +1,5 @@
+START
+INPUT height
+INPUT width 
+Area=height*width
+OUTPUT Area

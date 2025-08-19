@@ -1,0 +1,10 @@
+START
+INPUT num1, num2, num3
+IF num1>=num2 AND num1>=num3 THEN
+    Largest=num1
+ELIF num2>=num1 AND num2>=num3 THEN 
+    Largest=num2
+ELSE 
+    Largest=num3
+OUTPUT "Largest number= ", Largest
+END

@@ -1,0 +1,9 @@
+START
+INPUT num 
+IF num%2==0 THEN 
+    OUTPUT "Even"
+ELIF num%2!=0 THEN
+    OUTPUT "Odd"
+ELSE 
+    OUTPUT "INVALID NUMBER"
+END
