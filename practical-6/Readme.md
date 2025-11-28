@@ -1,0 +1,7 @@
+1. [Searching_Algorithm(Linear_Search,Binary_Search,DFS,BFS)]
+This program implements several searching algorithms for different data structures. Linear search sequentially checks each element in a list until the target is found, making it simple but less efficient for large datasets. 
+Binary search works on sorted lists by repeatedly dividing the search interval in half, offering faster performance with logarithmic time complexity.
+ For graphs, Breadth-First Search (BFS) explores all neighbors level by level using a queue, while Depth-First Search (DFS) explores as far as possible along each branch using recursion or a stack. Together, these algorithms demonstrate efficient ways to locate elements in lists and traverse graphs.
+
+ 2. [Sorting_Algorithm(Bubble_Sort,Insertion_Sort,Quick_sort)]
+This program implements several sorting algorithms for organizing data in ascending order. Bubble Sort repeatedly compares adjacent elements and swaps them if they are in the wrong order, making it simple but less efficient for large datasets. Insertion Sort builds a sorted portion of the list by inserting each element into its correct position, performing well on small or nearly sorted lists. Quick Sort uses a divide-and-conquer approach by selecting a pivot, partitioning the list around it, and recursively sorting the sublists, offering much faster performance on large datasets. These algorithms demonstrate different strategies for ordering data efficiently depending on the size and nature of the dataset.
